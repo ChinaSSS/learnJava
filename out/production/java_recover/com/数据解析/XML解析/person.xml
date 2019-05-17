@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<people>
+
+    <person
+        personid="E01">
+        <name>Tony</name>
+        <address>北京</address>
+        <tel>12345</tel>
+        <grilfriend>no</grilfriend>
+        <like>eat</like>
+    </person>
+
+    <person
+            personid="E02">
+        <name>Tom</name>
+        <address>wuHan</address>
+        <tel>123321</tel>
+        <grilfriend>have</grilfriend>
+        <like>sleep</like>
+    </person>
+
+
+</people>

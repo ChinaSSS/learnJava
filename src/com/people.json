@@ -1,0 +1,30 @@
+[
+  {
+    "name": "zhangqinlang",
+    "age": 21,
+    "sex": "男",
+    "tel": 111111
+  },
+
+  {
+    "name": "zhangzifeng",
+    "age": 20,
+    "sex": "女",
+    "tel": 5201314
+  },
+
+  {
+    "name": "zhangfei",
+    "age": 42,
+    "sex": "男",
+    "tel": 2222222
+  },
+
+  {
+    "name": "zhangzhang",
+    "age": 21,
+    "sex": "男",
+    "tel": 232323232
+  }
+
+]

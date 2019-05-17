@@ -1,0 +1,5 @@
+1 客户端在初始化流的时候必须先初始化输出流
+2、对于ObjectOutputStream和ObjectInputStream这两种流，是死锁流，也就是说在同一个线程里，
+    你不能new 两个ObjectOutputStream或者两个ObjectInputStream出来
+
+3.
