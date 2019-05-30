@@ -14,4 +14,6 @@ public class ArraysUtils {
         Arrays.fill(list,3);
         System.out.println(Arrays.toString(list));
     }
+
+    static class test{}
 }
